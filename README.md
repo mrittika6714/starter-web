@@ -1,6 +1,6 @@
 # Starter Web Project
 
-THis is a simple website project for showing how to use GIt and Github togethr. 
+THis is a simple website project for showing how to use GIt and Github togethr. Adding a line for rebasing. 
 
 ## Introduction
 
