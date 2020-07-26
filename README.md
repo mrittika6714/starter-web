@@ -1,6 +1,6 @@
 # Starter Web Project
 
-THis is a simple website project for showing how to use GIt and Github togethr. Adding a line for rebasing. 
+THis is a simple website project for showing how to use GIt and Github togethr. Adding a line for rebasing. More changes for myfeature branch. 
 
 ## Introduction
 
