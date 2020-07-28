@@ -20,4 +20,4 @@ As stated above, the main purpose is to provide simple examples for Git training
 Please fork this repository and then issue Pull requests for review
 
 ### Copyright
-2014Git.Training.
+2014Git.Training. All rights reserved. 
